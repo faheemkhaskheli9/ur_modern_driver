@@ -43,7 +43,7 @@ install(TARGETS ur_driver_lib
   DESTINATION lib
 )
 
-install(DIRECTORY ../include/${PROJECT_NAME}/
+install(DIRECTORY ../include/${PROJECT_NAME}
   DESTINATION include
   FILES_MATCHING PATTERN "*.h"
 )
