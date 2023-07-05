@@ -22,6 +22,7 @@
 #include <chrono>
 #include <thread>
 #include <vector>
+#include <memory>
 #include "ur_modern_driver/log.h"
 #include "ur_modern_driver/queue/readerwriterqueue.h"
 
